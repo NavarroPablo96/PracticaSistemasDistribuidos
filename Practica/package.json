@@ -1,0 +1,26 @@
+{
+  "name": "intro-clase01-18f",
+  "version": "1.0.0",
+  "description": "En este paquete voy a realizar el ejercicio propuesto en la filmina de la clase practica 01 que tiene 18 filminas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NavarroPablo96/PracticaSistemasDistribuidos.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "npm",
+    "package",
+    "ejemplo"
+  ],
+  "author": "Navarro Pablo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NavarroPablo96/PracticaSistemasDistribuidos/issues"
+  },
+  "homepage": "https://github.com/NavarroPablo96/PracticaSistemasDistribuidos#readme"
+}
